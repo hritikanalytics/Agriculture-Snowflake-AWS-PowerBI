@@ -42,4 +42,4 @@ An end-to-end data pipeline project that ingests agricultural data from AWS S3 i
 ## Author
 **Hritik Mishra**
 - GitHub: https://github.com/hritikanalytics
-- Email: hmxanalysis@gmail.com
+- Email: [hmxanalysis@gmail.com](mailto:hmxanalysis@gmail.com)
